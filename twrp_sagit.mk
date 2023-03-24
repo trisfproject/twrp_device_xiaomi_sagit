@@ -33,3 +33,8 @@ PRODUCT_NAME := twrp_sagit
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := MI 6
 PRODUCT_MANUFACTURER := Xiaomi
+
+#Fox
+FOX_BUILD_TYPE := Beta
+FOX_VERSION := R12.1
+OF_MAINTAINER := 𝐭𝐫𝐢𝐬𝐟 𝐩𝐫𝐨𝐣𝐞𝐜𝐭
